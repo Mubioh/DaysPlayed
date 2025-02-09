@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "daysplayed",
+  "version": "${version}",
+  "name": "DaysPlayed",
+  "description": "Shows your amount of days played on the screen, just like in Minecraft: Bedrock Edition.",
+  "authors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "me.mubioh.daysplayed.client.DaysplayedClient"
+    ],
+    "main": [
+      "me.mubioh.daysplayed.Daysplayed"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

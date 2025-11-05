@@ -1,3 +1,0 @@
-/time set 1d
-/time set 100d
-/time set 100000d

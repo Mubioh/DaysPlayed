@@ -1,0 +1,4 @@
+{
+  "hud.days_played": "Сыграно дней: %s",
+  "hud.days_played.too_many": "Слишком много, чтобы сосчитать!"
+}

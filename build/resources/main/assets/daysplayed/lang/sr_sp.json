@@ -1,0 +1,4 @@
+{
+  "hud.days_played": "Одиграних дана: %s",
+  "hud.days_played.too_many": "Превише за бројање!"
+}

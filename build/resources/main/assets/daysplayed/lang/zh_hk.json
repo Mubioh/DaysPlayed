@@ -1,0 +1,4 @@
+{
+  "hud.days_played": "遊戲天數：%s",
+  "hud.days_played.too_many": "多到無法計算！"
+}

@@ -1,0 +1,4 @@
+{
+  "hud.days_played": "Zagranych dni: %s",
+  "hud.days_played.too_many": "Za dużo, coby policzyć!"
+}

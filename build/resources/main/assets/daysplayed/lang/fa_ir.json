@@ -1,0 +1,4 @@
+{
+  "hud.days_played": "روزهای بازی شده: %s",
+  "hud.days_played.too_many": "بیش از حد برای شمارش!"
+}

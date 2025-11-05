@@ -1,0 +1,4 @@
+{
+  "hud.days_played": "Lejátszott napok: %s",
+  "hud.days_played.too_many": "Túl sok, hogy megszámoljam!"
+}

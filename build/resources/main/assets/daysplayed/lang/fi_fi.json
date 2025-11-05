@@ -1,0 +1,4 @@
+{
+  "hud.days_played": "Päiviä pelattu: %s",
+  "hud.days_played.too_many": "Liian monta laskettavaksi!"
+}

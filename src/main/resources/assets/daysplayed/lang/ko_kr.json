@@ -1,0 +1,4 @@
+{
+  "hud.days_played": "플레이한 날 수: %s",
+  "hud.days_played.too_many": "너무 많아서 셀 수 없어요!"
+}

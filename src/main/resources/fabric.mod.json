@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "daysplayed",
+  "version": "${version}",
+  "name": "DaysPlayed",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/daysplayed/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "me.mubioh.daysplayed.client.DaysPlayedClient"
+    ],
+    "main": [
+      "me.mubioh.daysplayed.DaysPlayed"
+    ]
+  },
+  "mixins": [
+    "daysplayed.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

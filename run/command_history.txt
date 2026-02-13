@@ -1,0 +1,3 @@
+/time set 1d
+/time set 100d
+/time set night

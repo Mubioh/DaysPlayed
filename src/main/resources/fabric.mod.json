@@ -3,9 +3,13 @@
   "id": "daysplayed",
   "version": "${version}",
   "name": "DaysPlayed",
-  "description": "",
-  "authors": [],
-  "contact": {},
+  "description": "Shows your amount of days played on the screen, just like in Minecraft: Bedrock Edition.",
+  "authors": ["Mubioh"],
+  "contact": {
+    "homepage": "https://modrinth.com/mod/daysplayed",
+    "sources": "https://github.com/Mubioh/DaysPlayed",
+    "issues": "https://github.com/Mubioh/DaysPlayed/issues"
+  },
   "license": "MIT",
   "icon": "assets/daysplayed/icon.png",
   "environment": "client",
@@ -16,6 +20,13 @@
     "main": [
       "me.mubioh.daysplayed.DaysPlayed"
     ]
+  },
+  "custom": {
+    "modmenu": {
+      "links": {
+        "modmenu.modrinth": "https://modrinth.com/mod/daysplayed"
+      }
+    }
   },
   "mixins": [
     "daysplayed.mixins.json"

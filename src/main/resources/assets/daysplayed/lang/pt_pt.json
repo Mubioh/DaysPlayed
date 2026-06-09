@@ -1,0 +1,6 @@
+{
+  "hud.days_played": "Dias jogados: %s",
+  "hud.days_played.too_many": "Dias jogados: Demasiados para contar!",
+
+  "options.daysplayed.show_days_played": "Mostrar dias de jogo"
+}
